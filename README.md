@@ -15,6 +15,6 @@ A modular Python automation tool built for attack-surface reconnaissance, asset 
 
 ## Installation & Usage
 ```bash
-git clone [https://github.com/](https://github.com/)/security-recon-automation.git
+git clone https://github.com/Rishabh-7878/security-recon-automation.git
 cd security-recon-automation
 python3 recon_scanner.py -d example.com -o results.json
